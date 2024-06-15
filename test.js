@@ -13,3 +13,4 @@ document.body.insertAdjacentHTML('beforeend', "<!DOCTYPE html>
   </body>
 </html>
 ");
+console.log("开始！");
