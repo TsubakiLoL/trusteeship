@@ -74,7 +74,7 @@ async function start(){
   while(typeof IIROSE_WPM_MES_FINISH === 'undefined'){
 	console.log("阻塞中")
  }
-  var domin_name="http://js.tsubaki.fun"
+  var domin_name="https://js.tsubaki.fun"
   var floatingWindow = document.createElement('div');
   floatingWindow.style.position = 'absolute';
   floatingWindow.style.zIndex = 999999;
@@ -141,3 +141,4 @@ async function start(){
 }
 
 start()
+
